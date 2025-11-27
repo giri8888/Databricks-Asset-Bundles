@@ -1,0 +1,6 @@
+variables:
+  catalog_name:
+    description: This is the dynamic variable for catalog name
+    default: demo_catalog
+
+    
